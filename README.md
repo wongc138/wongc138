@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chuan Wong</h1>
-<h3 align="center">A passionate developer /researcher / lecturer from Coventry Uni</h3>
+<h3 align="center">A passionate developer / researcher / lecturer from Coventry Uni</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongc138&label=Profile%20views&color=0e75b6&style=flat" alt="wongc138" /> </p>
 
